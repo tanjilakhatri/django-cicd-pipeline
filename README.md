@@ -1,6 +1,10 @@
 # 🚀 CI/CD Pipeline Using Jenkins for Django Application
 
 <p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+
+<p align="center">
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins)
 
